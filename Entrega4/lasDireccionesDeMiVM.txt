@@ -1,0 +1,7 @@
+IP Privada: 172.17.0.1
+
+IP Pública: 147.135.64.137
+
+MAC:
+	ether 02:42:2d:60:e3:54  txqueuelen 0  (Ethernet)
+	ether f2:05:f6:3f:86:80  txqueuelen 1000  (Ethernet)
